@@ -43,7 +43,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://github.com/Anurag1023/Xpensify" target="_blank">
+          <Link href="https://github.com/shivansh746/AI-Finance" target="_blank">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
